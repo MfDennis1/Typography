@@ -1,0 +1,40 @@
+.serif {
+    font-family: serif;
+}
+.sans-serif {
+    font-family: sans-serif;
+}
+.monospace {
+    font-family: monospace;
+}
+.times {
+    font-family: "Times New Roman";
+}
+.georgia {
+    font-family: "Georgia";
+}
+.arial {
+    font-family: "Arial"; arial, sans-serif
+}
+.verdana {
+    font-family: "Verdana"; verdana,sans-serif
+}
+h4 + ul {
+    font-size: 30px;
+    background-color: azure;
+}
+.courier {
+    font-family: "Courier New"; courier, monospace
+}
+.lucisa {
+    font-family: "Lucida Console"; lucida, monospace
+}
+
+
+h4 + p {
+    background-color: lemonchiffon;
+    font-size: 24px;
+}
+.sofia{
+    font-family: "Sofia", sans-serif;
+}
